@@ -58,6 +58,34 @@
           "type": "csv"
         }
       ]
+    },
+    {
+      "id": "fastapi-rest-apis",
+      "title": "Building REST APIs with FastAPI",
+      "description": "Create and manage a small REST API using FastAPI, validation, and CRUD routes",
+      "path": "assignments/fastapi-rest-apis",
+      "dueDate": "2026-09-29",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter-code.py",
+          "type": "python"
+        }
+      ]
+    },
+    {
+      "id": "fastapi-authentication",
+      "title": "FastAPI Authentication and Security",
+      "description": "Create a secure API with user authentication, protected routes, and validation",
+      "path": "assignments/fastapi-authentication",
+      "dueDate": "2026-09-29",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter-code.py",
+          "type": "python"
+        }
+      ]
     }
   ]
 }
