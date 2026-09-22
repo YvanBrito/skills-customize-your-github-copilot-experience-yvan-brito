@@ -86,6 +86,20 @@
           "type": "python"
         }
       ]
+    },
+    {
+      "id": "fastapi-sqlite-database",
+      "title": "Database Integration with SQLite and FastAPI",
+      "description": "Store and manage API data in a SQLite database using FastAPI",
+      "path": "assignments/fastapi-sqlite-database",
+      "dueDate": "2026-09-29",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter-code.py",
+          "type": "python"
+        }
+      ]
     }
   ]
 }
